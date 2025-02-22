@@ -1,0 +1,13 @@
+{
+  "bookingid": 3,
+  "roomid": 1,
+  "firstname": "Prasanth",
+  "lastname": "Sankaran",
+  "depositpaid": true,
+  "email": "snkr@gmail.com",
+  "phone": "996238585134",
+  "bookingdates": {
+    "checkin": "2025-02-28",
+    "checkout": "2025-03-03"
+  }
+}
