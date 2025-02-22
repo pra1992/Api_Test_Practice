@@ -33,7 +33,7 @@ These dependencies are included in the `pom.xml` file for Maven.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone
+   git clone https://github.com/pra1992/Api_Test_Practice.git
 2. Navigate to the project directory:
    cd rest-assured-cucumber-java-framework
 3. Install the required dependencies:
